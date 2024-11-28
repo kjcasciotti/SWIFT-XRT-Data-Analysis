@@ -1,6 +1,6 @@
 The base for this code has been adapted from Amanpreet Kaur, Ph.D. (astroaman.kaur@gmail.com). 
 
-With the assistance of my mentor, Dr. Pragati Pradhan, we have updated the code to run on SciServer, iterate over all observations for a target within a maximum search offset radius, and print the results to a text file. 
+With the assistance of my mentor, Dr. Pragati Pradhan, we have updated the code to run on Jupyter Notebook on SciServer, iterate over all observations for a target within a maximum search offset radius, and print the results to a text file. 
 
 When running the code, the results will be saved in a file named pileup_counts_name.txt. This will not overwrite a previous file, so delete or change the output file name before re-running if desired. 
 
